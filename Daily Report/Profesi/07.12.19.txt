@@ -1,0 +1,13 @@
+Tanggal 12 Juli 2019
+
+Absensi:
+1. Rafik
+2. Iwan
+3. Rudi
+4. Abdul
+
+Target :
+1. Membuat Tabel Kategori
+2. Membuat Tabel Penulis
+
+Materi :

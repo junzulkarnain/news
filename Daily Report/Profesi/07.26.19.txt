@@ -1,0 +1,11 @@
+Tanggal 26 Juli 2019
+
+Absensi:
+1. Iwan
+2. Rafik
+3. Abdul 
+
+Target :
+1. Membuat menu Report
+2. Membuat table untuk menu report
+3. Menampilkan report berdasarkan tanggal yg di tentukan

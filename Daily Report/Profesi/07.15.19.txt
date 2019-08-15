@@ -1,0 +1,15 @@
+Tanggal 15 Juli 2019
+
+Absensi:
+1. Hanung
+2. Iwan
+3. Rudi
+4. Abdul
+
+Target :
+1. Menampilkan kategori di form tambah artikel dari database
+2. Menampilkan penulis di form tambah artikel dari database
+3. Membuat ubah kategori data dari database
+4. Membuat ubah penulis data dari database
+
+Materi :

@@ -1,0 +1,21 @@
+Tanggal 28 Juni 2019
+
+Absensi:
+1. Rafik
+2. Iwan
+3. Rudi
+4. Hanung
+
+Target :
+1. Menambahkan foto
+2. hapus foto direktori
+3. Input data required
+4. tanggal otomatis
+5. ubah artikel dengan foto
+
+Materi :
+1. Menambahkan foto
+2. hapus foto direktori
+3. Input data required
+4. tanggal otomatis
+5. ubah artikel dengan foto

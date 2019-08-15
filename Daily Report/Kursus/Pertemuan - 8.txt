@@ -1,0 +1,11 @@
+Sabtu 27 Juli 2019
+1. Regita
+2. Zain
+3. Hendri
+
+Materi
+1. Membuat form input kategori --> select option
+2. Membuat form input status --> radio button
+3. Membuat form input file/foto --> file
+4. membuat fungsi tambahnya
+5. membuat fungsi ubah

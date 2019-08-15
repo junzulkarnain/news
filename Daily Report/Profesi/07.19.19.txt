@@ -1,0 +1,13 @@
+Tanggal 19 Juli 2019
+
+Absensi:
+1. Iwan
+2. Rafik
+3. Abdul
+4. Rudi
+5. Hanung 
+
+Target :
+1. Menyiapkan plugin data table
+2. Membuat data table print
+3. Membuat data table export

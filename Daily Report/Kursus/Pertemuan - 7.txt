@@ -1,0 +1,9 @@
+
+Minggu 21 Juli 2019
+
+1. quick resume
+2. Input data di form tambah artikel :
+	- Select Option [kategori] / varchar(50)
+	- Radio button [status] / varchar(20)
+	- input foto [foto]/ varchar(100)
+3. Login Multi Level

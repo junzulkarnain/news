@@ -1,0 +1,21 @@
+Tanggal 24 Juni 2019
+
+Absensi:
+1. Iwan
+2. Rudi
+3. Hanung
+4. Rafik
+5. Abdul
+
+Target :
+1. Membuat input Foto
+2. Quick Resume
+
+
+Materi :
+Login menggunakan Session
+Memberikan session destroy dihalaman login agar tidak dapat di backpass
+Membuat menu icon logout dihalaman index, (pojok kanan atas)
+Membuat logout.php
+Membuat quick Resume
+Membuat input type foto

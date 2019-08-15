@@ -1,0 +1,17 @@
+Tanggal 23 Juni 2019
+
+Absen:
+1. Regita
+2. Dewi
+
+Target :
+1. Update
+2. Delete
+3. Login
+4. Logout
+
+Materi :
+Review cara menampilkan data
+Review cara menambahkan data
+membuat form login
+membuat fungsi login

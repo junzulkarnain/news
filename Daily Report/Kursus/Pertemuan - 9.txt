@@ -1,0 +1,8 @@
+Minggu 28 Juli 2019
+1. Regita
+2. Zain
+3. Hendri
+
+Materi
+1. Membuat Master data kategori
+2. Menampilkan master data kategori di form tambah artikel

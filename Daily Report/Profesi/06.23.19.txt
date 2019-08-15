@@ -1,0 +1,18 @@
+Tanggal 23 Juni 2019
+
+Absensi:
+1. Iwan
+2. Rudi
+3. Hanung
+
+Target :
+1. Login
+2. Logout
+3. Login multiuser
+
+Materi :
+Login menggunakan Session
+Memberikan session destroy dihalaman login agar tidak dapat di backpass
+Membuat menu icon logout dihalaman index, (pojok kanan atas)
+Membuat logout.php
+Membuat quick Resume
