@@ -1,5 +1,7 @@
 # news
-Contoh aplikasi CRUD
+Contoh aplikasi CRUD PHP native
+Menggunakan template SB admin
+Menggunaan 2 level login, admin dan owner
 Menu
 1. Master
   - Kategori berita
@@ -10,7 +12,5 @@ Menu
 3. Report
   - jumlah berita per kategori pada periode tertentu
   - grafik
-  
-Menggunaan 2 level login, admin dan owner
 
 Semoga bermanfaat :)
